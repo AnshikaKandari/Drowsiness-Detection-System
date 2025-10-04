@@ -26,19 +26,6 @@ This system leverages computer vision techniques to detect facial features and m
 - Python 3.x installed
 - Webcam connected to the system
 
-## Installation
-
-1. Clone the repository:
-   ```
-   git clone https://github.com/anshikakandari/drowsiness-detection.git
-   cd drowsiness-detection
-   ```
-
-2. Install required packages:
-   ```
-   pip install -r requirements.txt
-   ```
-
 ## Usage
 
 1. Run the application:
@@ -67,19 +54,3 @@ This system leverages computer vision techniques to detect facial features and m
 - `requirements.txt`: List of Python dependencies.
 - `README.md`: This documentation file.
 
-## Contributing
-
-Feel free to fork the repository and submit pull requests for improvements.
-
-## License
-
-This project is licensed under the MIT License.
-
-## Author
-
-Anshika Kandari
-
-## Acknowledgments
-
-- Inspired by advancements in computer vision for safety applications.
-- Haar cascades from OpenCV library.
